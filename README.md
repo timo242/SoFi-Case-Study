@@ -5,7 +5,7 @@
 
 The [original focus][1] of SoFi was student loans and refinancing.  In a macro sense Sofi has and continues to grow into a “One-Stop-Shop” for all most all personal banking needs.  They foster a culture of learning with the ultimate goal of Financial Independence using clear and easy to understand language. Their products includes Investment banking, Wealth Management, Blockchain and Cryptocurrencies, Personal Finance, Deposits and Online Banking. However, Sofi has gone through it's own trials and tribulations, but let's start at the begining. 
 
-## How it all began
+## The Birth of SoFi
 
 First, SoFi stands for "Social Finance".  The name is significant as "Culture" helps lead the way to SoFi success.  It all started in 2011 four students the Stanford Graduate School of Business wanted to provide more affordable options for students who were accumulating student debt.  Together, Mike Cagney, Dan Macklin, Ian Brady and James Finnigan began a pilot program to lend 100 students approximately $20,000 to help fund their education.  Together SoFi was born and incorporated in August 2011.
 
@@ -44,7 +44,7 @@ Anthony Noto felt finnancial stress at the age of 3, when his parents divorced. 
 
 Anthony Noto has shown his ability to leverage his experiences to obtain results.  He develops relationships and fosters trust.  For instance, returning to Goldman Sachs to to help land the Twitter underwriting deal. Then again, joining Twitter as the CFO.  Yet again, leveraging his experience and relationships formed during his tenure in the NFL to be awarded the ["SoFi Stadium"][1] deal, the home of L.A. Rams and Chargers is now "SoFi Stadium", a 20 year contract.   Noto has shown a pattern of using expierence, relationships and trust to create accomplishments and success.
 
-**Funding Milestones under Cagney**
+**Funding Milestones under Noto**
 
 - May 2019, $500 million in a single funding round led by Qatar Investment Authority.
 - Sofi has a total of [19 funding rounds][9] totaling $3 billon.
