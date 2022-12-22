@@ -1,9 +1,9 @@
 ![SoFi Logo](images/SoFi_small.jpg/)
-# Sofi is changing the game through Culture, Leadership and Services
+# Sofi's One-Stop-Shop Personal Banking Platform
 ​
 ## History and Evolution of SoFi
 
-The [original focus][1] of SoFi was student loans and refinancing.  In a macro sense Sofi has and continues grow into a “One Stop Shop” for all most all personal banking needs.  They also culture, education and a host of services. including Investment banking, Wealth Management, Blockchain and Cryptocurrencies, Personal Finance, Deposits and Online Banking.  However, Sofi has gone through it's trials and tribulations, but let's start at the begining. 
+The [original focus][1] of SoFi was student loans and refinancing.  In a macro sense Sofi has and continues to grow into a “One-Stop-Shop” for all most all personal banking needs.  They foster a culture of learning with the ultimate goal of Financial Independence using clear and easy to understand language. Their products includes Investment banking, Wealth Management, Blockchain and Cryptocurrencies, Personal Finance, Deposits and Online Banking. However, Sofi has gone through it's own trials and tribulations, but let's start at the begining. 
 
 ## How it all began
 
@@ -34,7 +34,15 @@ SoFi CEO Anthony Noto has the [strength][2] to lead SoFi into One-Stop-Shop bank
 
 Anthony Noto felt finnancial stress at the age of 3, when his parents divorced. He grew up on food stamps and free lunches.  His family struggled to get the things they wanted.  This is what drove him into West Point and collage.  On now it is what drives him to reach as many people as possible. educate them and provide a path to financial independance.
 
-Anthony Noto has shown is his ability to leverage his experiences to obtain results.  He develops relationships and fosters trust.  For instance, returning to Goldman Sachs to to help land the Twitter underwriting deal. Then again, joining Twitter as the CFO.  Yet again, leveraging his experience and relationships formed while in the NFL and winning the ["SoFi Stadium"][1] deal, the home of L.A. Rams and Chargers is now "SoFi Stadium", a 20 year contract.   Noto has shown a pattern of using expierence, relationships and trust to create accomplishments and success.
+<br>
+
+**Sofi's Mission Statment**
+
+> ## SoFi’s mission is to help people reach financial independence to realize their ambitions.
+
+<br>
+
+Anthony Noto has shown his ability to leverage his experiences to obtain results.  He develops relationships and fosters trust.  For instance, returning to Goldman Sachs to to help land the Twitter underwriting deal. Then again, joining Twitter as the CFO.  Yet again, leveraging his experience and relationships formed during his tenure in the NFL to be awarded the ["SoFi Stadium"][1] deal, the home of L.A. Rams and Chargers is now "SoFi Stadium", a 20 year contract.   Noto has shown a pattern of using expierence, relationships and trust to create accomplishments and success.
 
 **Funding Milestones under Cagney**
 
@@ -53,12 +61,25 @@ Anthony Noto has shown is his ability to leverage his experiences to obtain resu
 - February 2022, [aquires Technisys][4], a leading cloud-native, digital multi-product core banking      platform.
 - October 2022, Galileo and Technisys forms partnership offers CyberBank Digital as a manage service.  A step close in SoFi's pursuit to become the ["AWS of fintech"][4].
 
-​
+<br>
+
+## SoFi Earnings and Challenges in the Industry.
+
+2022 has been a turbulent time for Fintech lenders.  Rising interest rates, inflation and the Biden’s extension of the moratorium on student loans payments has created challenges for Fintech lending sector. Sofi has faired better than most. The company reported strong revenue growth in Q3 2022. Reporting 1.5 billion in revenue.  While Sofi is not yes profitable, they have made expectations and are expected to [3.6 billion][11] by the end of 2025.
+
+Sofi managed to add [424k members][12] by the third quarter.   The growth came from their Credit score monitoring service “SoFi Relay” at 256k of products, “SoFi Money” at 165k and  “SoFi Invest” at 106K  Totaling 527 products.   “Lending” products and SoFi Credit Card amounted to 78k and 14k of products respectively.  SoFi is growing and expanding services, which helps offset some of the economic conditions affecting the Lending sector. 
+
+Sofi also reported that Galileo, SoFi’s payments technology platform, accounts grew to 124.3k in Q3, a 40% growth compared to Q3 2021.
+
+To define about Sofi's challenges, we need to look at the state of the FinTech Industry and what is effects of outside forces.  The most pressing issue is the Federal government’s [Student Loan forgiveness program.][10]  The Supreme Court is set hear arguments February 28 2023. This issue is creating downward pressure on Sofi’s stock Price.  Until this case is decided, investors will be wary.  Noto has done shifted focus from student loans to other products and service to balance out the detriment effects of Student Loan Forgiveness program.  In fact, SoFi is driving potential members to it's website with the latest information on the program. In effect using the Issue to enhance education for their members.
+The FTX scandal is eroding public trust on the crypto and blockchain sector, as details on who, what where and when needs to see daylight.  Sofi has fees attached to the crypto exchange part of their business.  The [lack of regulation][6] of crypto erodes consumer confidence, regulation clarity is needed to restore confidence.
+
+
+
 ---
 
-**Sofi's Mission Statment**
-
-> ## SoFi’s mission is to help people reach financial independence to realize their ambitions.
+![SoFi Members](images/SoFi_Members.jpg/)
+> ### As of Q3 2022 Sofi's Membership has grown 976K to **4.7 million** in less than 3 years.
 
 <br>
 
@@ -80,10 +101,9 @@ Anthony Noto has shown is his ability to leverage his experiences to obtain resu
 
 <br>
 
-![SoFi Members](images/SoFi_Members.jpg/)
-> ### As of Q3 2022 Sofi's Membership has grown 976K to **4.7 million** in less than 3 years.
-
 ---
+
+
 
 <br>
 
@@ -108,23 +128,6 @@ Anthony Noto has shown is his ability to leverage his experiences to obtain resu
 
 <br>
 
-## Sofi's Challanges in the Industry
-
-SoFi operates in the following FinTech domains
-
-- Robo-advising 
-- Open Banking
-- Lending
-- Insurance
-- Investment management.
-- Wealth Management
-- Payments and Billing
-
-
-To define about Sofi's challenges, we need to look at the state of the FinTech Industry and what is effects of outside forces.  The most pressing issue is the Federal government’s [Student Loan forgiveness program.][10]  The Supreme Court is set hear arguments February 28 2023. This issue is creating downward pressure on Sofi’s stock Price.  Until this case is decided, investors will be wary.  Noto has done shifted focus from student loans to other products and service to balance out the detriment effects of Student Loan Forgiveness program.  In fact, SoFi is driving potential members to it's website with the latest information on the program. In effect using the Issue to enhance education for their members
-
-
-The FTX scandal is eroding public trust on the crypto and blockchain sector, as details on who, what where and when needs to see daylight.  Sofi has fees attached to the crypto exchange part of their business.  The [lack of regulation][6] of crypto erodes consumer confidence, regulation clarity is needed to restore confidence.
 
 
 
@@ -165,43 +168,22 @@ The FTX scandal is eroding public trust on the crypto and blockchain sector, as 
 |Free CPA advisiors and Financial Planing||
 |One Stop Shop Financial Platform||
 
-To speak about Sofi's challanges
-
-
-
-
-
-
 ---
 
+## Summery and Recommendations
 
+SoFi has great brand recognition with SoFi Staduim.  The One-Stop-Shop is an excellent strategy, as 80% of consumers handle their banking at multiple institutions.  Consumers are evolving towards greater use of mobile banking every day.   Sofi has secured the bank charter, which should bring lending cost down.  SoFi’s Technical platforms of Galileo payment system and Technisys banking platform are a great foundations to future revenue and growth.   The future is bright if they can withstand the economic headwinds of 2023.
 
+- I would recommend to keep push brand recognition.   Focus culture, education and services and social media, it is the forte’ of their CEO Anthony Noto. 
 
-* What specific financial problem is the company or project trying to solve?
-​
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-​
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-​
-​
-## Landscape:
-​
-* What domain of the financial industry is the company in?
-​
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-​
-* What are the other major companies in this domain?
-​
-​
-## Results
-​
-* What has been the business impact of this company so far?
-​
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-​
-* How is your company performing relative to competitors in the same domain?
-​
+- Marketing should also taget older mainstream consumers, as the "ease of use" of the SoFi moblle platform will appeal to older cunstomers as well.
+
+- Help lobby the US congress to pass legislation and regulations that provide consumer confidence in the Crypto and Blockchain sector.  
+
+- As the latest generation of consumers mature and require financial services, they will gravitate toward Sofi.  Time is on SoFi’s side if they make expectations the next few years
+
+<br>
+
 ## Addendum
 
 [1]: <https://en.wikipedia.org/wiki/SoFi#:~:text=SoFi%2C%20short%20for%20Social%20Finance,debt%20to%20fund%20their%20education.> "originl focus"
@@ -224,6 +206,9 @@ What solution does this company offer that their competitors do not or cannot of
 
 [10]: <https://www.businessinsider.com/when-is-supreme-court-hearing-student-loan-debt-forgiveness-february-2022-12> "Student Loan forgiveness program."
 
+[11]: <https://www.fool.com/investing/2022/09/17/where-will-sofi-be-in-3-years/> "3.6 billion"
+
+[12]: <https://www.popularfintech.com/p/sofi-q3-2022-earnings-review-the>  "424k members"
 ---
 
 [SoFi Wiki - "original focus", "SoFi Stadium"](https://en.wikipedia.org/wiki/SoFi#:~:text=SoFi%2C%20short%20for%20Social%20Finance,debt%20to%20fund%20their%20education.)
@@ -246,25 +231,12 @@ What solution does this company offer that their competitors do not or cannot of
 
 [businessinsider.com - "Student Loan forgiveness program."](https://www.businessinsider.com/when-is-supreme-court-hearing-student-loan-debt-forgiveness-february-2022-12)
 
-## Recommendations
-​
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-​
-* Why do you think that offering this product or service would benefit the company?
-​
-* What technologies would this additional product or service utilize?
-​
-* Why are these technologies appropriate for your solution?
-```
-​
-### 4. Write the case study.
-​
-Write the finished case study report in a markdown `README.md` file, using the above case study template. Your report should be sufficiently long to ensure you provide all relevant information about the company or project in a thorough manner.
-​
-Be sure to cite your sources in an addendum at the end of the report. List all websites, podcasts, blogs, or articles that you consulted in order to write the report, and provide links. Your list should be thorough and account for all sources you used, but it does not need to be a formal works cited page.
-​
-​
-### 5. Upload your case study to your git repository.
-​
-You learned some technical aspects of FinTech this week, including how to set up and populate a git repository. As a final step, take your finished case study and upload it to a repository to share with your instructor and class.
+[fool.com- "3.6 billion"](https://www.fool.com/investing/2022/09/17/where-will-sofi-be-in-3-years/)
+
+[PopularFinTech.com - "424k members"](https://www.popularfintech.com/p/sofi-q3-2022-earnings-review-the)
+
+---
+
+
+
 ​
